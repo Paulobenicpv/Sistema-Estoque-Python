@@ -1,9 +1,7 @@
-# Sistema de Estoque (Tkinter puro)
+# Sistema de Estoque 
 
-Sem dependências externas. Login obrigatório:
-- usuário: **paulobeni**
-- senha: **475896**
-
-Execute:
-- Windows: `run.bat` ou `python app.py`
-- Linux/Mac: `python app.py`
+Este projeto em Python foi desenvolvido para automatizar todo o processo de gestão de estoque, oferecendo uma solução completa e eficiente para o controle de produtos, movimentações e informações logísticas em tempo real. A aplicação elimina a necessidade de planilhas manuais e sistemas complexos, centralizando todas as operações em uma interface simples, intuitiva e funcional. O sistema permite o cadastro completo de produtos com dados detalhados como nome, categoria, código, quantidade, preço de custo, preço de venda e fornecedor, garantindo uma base de dados estruturada e confiável para tomada de decisões estratégicas.
+Uma das principais funcionalidades do projeto é o controle preciso de entradas e saídas de produtos, permitindo registrar movimentações com data, quantidade, origem ou destino e observações adicionais. Isso possibilita acompanhar o histórico de movimentações de forma detalhada, identificar padrões de consumo e reposição e evitar perdas por excesso ou falta de estoque. O sistema também atualiza automaticamente os níveis de estoque a cada operação registrada, garantindo que os dados estejam sempre atualizados e permitindo a visualização imediata do status de cada item em tempo real.
+Além do controle operacional, o projeto foi desenvolvido com foco em inteligência analítica. Ele realiza cálculos automáticos de métricas importantes, como valor total do estoque, margem de lucro, giro de produtos e desempenho por categoria, fornecendo insights valiosos que auxiliam na gestão estratégica do negócio. A aplicação também gera relatórios completos e exportáveis, facilitando a análise de resultados e o compartilhamento de informações com outras áreas da empresa.
+O sistema conta ainda com recursos de busca e filtragem avançada, tornando simples localizar produtos específicos, consultar movimentações históricas ou monitorar itens com baixo nível de estoque. Com isso, o processo de tomada de decisão se torna mais rápido e assertivo, permitindo que gestores atuem de forma proativa em reposições, promoções e planejamento de compras.
+Ao reunir cadastro, movimentação, análise e visualização de dados em uma única solução, este projeto se consolida como uma ferramenta robusta para empresas de qualquer porte que desejam otimizar sua gestão de estoque. Ele reduz falhas operacionais, aumenta a eficiência no controle de produtos e oferece uma base sólida para decisões estratégicas, garantindo mais produtividade, rentabilidade e controle em toda a operação logística.
